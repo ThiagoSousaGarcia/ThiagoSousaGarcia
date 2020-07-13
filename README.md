@@ -1,5 +1,5 @@
 ## Hello World! :wave::globe_with_meridians:
-My name is Thiago de Sousa Garcia, I am Graduated in Computer Science and Postgraduate student in Software Engineering, with experience in software development, especially Java Web systems, REST API's and SOAP Web Services, using Spring Boot, Hibernate, JSF, JUnit, PrimeFaces, CSS, HTML, JavaScript and other technologies. I am always studying and I love to discover new things
+My name is Thiago de Sousa Garcia, I am Graduated in Computer Science and Postgraduate student in Software Engineering, with experience in software development, especially Java Web Systems, REST API's and SOAP Web Services, using Spring Boot, Hibernate, JSF, JUnit, PrimeFaces, CSS, HTML, JavaScript and other technologies. I am always studying and I love to discover new things
 
 ## About me 🧐
 - :mortar_board:	Graduated in Computer Science on Universidade Federal do Ceará - UFC
