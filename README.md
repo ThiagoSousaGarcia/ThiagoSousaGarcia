@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hello World! :wave::globe_with_meridians:
+My name is Thiago de Sousa Garcia, I am Graduated in Computer Science and Postgraduate student in Software Engineering, with experience in software development, especially Java Web systems, REST API's and SOAP Web Services, using Spring Boot, Hibernate, JSF, JUnit, PrimeFaces, CSS, HTML, JavaScript and other technologies. I am always studying and I love to discover new things
 
+## About me 🧐
+- :mortar_board:	Graduated in Computer Science on Universidade Federal do Ceará - UFC
+- :movie_camera:  I love to watch movies and series
+- 🎮 I like to play video games
+- :sun_with_face: I am from Fortaleza, Ceará, Brazil
+
+## Social media :mailbox_with_no_mail:
+[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/thiago.s.garcia/)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/thiago-de-sousa-garcia/)
 <!--
 **ThiagoSousaGarcia/ThiagoSousaGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
