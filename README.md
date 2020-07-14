@@ -8,8 +8,9 @@ My name is Thiago de Sousa Garcia, I am Graduated in Computer Science and Postgr
 - :sun_with_face: I am from Fortaleza, Ceará, Brazil
 
 ## Social media :mailbox_with_no_mail:
-[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/thiago.s.garcia/)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/thiago-de-sousa-garcia/)
+<a href="https://www.linkedin.com/in/thiago-de-sousa-garcia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/thiago.s.garcia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
 <!--
 **ThiagoSousaGarcia/ThiagoSousaGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
