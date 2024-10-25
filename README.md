@@ -1,5 +1,6 @@
 ## Hello World! :wave::globe_with_meridians:
-My name is Thiago de Sousa Garcia, I am Graduated in Computer Science and Postgraduate student in Software Engineering, with experience in software development, especially Java Web Systems, REST API's and SOAP Web Services, using Spring Boot, Hibernate, JSF, JUnit, PrimeFaces, CSS, HTML, JavaScript and other technologies. I am always studying and I love to discover new things.
+I'm an experienced Software Developer with a strong focus on Java and practical experience in Python. I hold a Bachelor's degree in Computer Science from UFC and a postgraduate degree in Software Engineering from UNI7. I specialize in building scalable cloud solutions and Java web systems using Spring Boot and JUnit, and I have hands-on experience with AWS services like SNS, SQS, Lambda, and S3. I enjoy mentoring interns and fostering collaboration within teams while continuously enhancing system performance and scalability.
+
 
 ## About me 🧐
 - :mortar_board:	Graduated in Computer Science on Universidade Federal do Ceará - UFC
